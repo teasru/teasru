@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I+love+tech+and+donuts!">
 </h3>
 
-How to reach me: [proton](mailto:teasroo@proton.me)
+How to reach me: [mail](mailto:recothecoco@gmail.com)
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
